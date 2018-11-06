@@ -13,6 +13,7 @@ Quickly change the system master volume on the fly using modifier keys (Control,
     - Enable/disable at user login
     - Toggle hotkeys on/off
     - Help screen
+
 ## Current Release
 [Volume Revolver V2 32 Bit](https://github.com/Lateralus138/Volume-RevolverV2/releases/download/2.11.5.18/Volume.Revolver.V2.32bit.exe)<br />
 [Volume Revolver V2 64 Bit](https://github.com/Lateralus138/Volume-RevolverV2/releases/download/2.11.5.18/Volume.Revolver.V2.64bit.exe)<br />
