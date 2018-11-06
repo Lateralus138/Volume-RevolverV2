@@ -28,10 +28,16 @@ I wanted something to help me quickly change my system volume very quickly witho
 
 ## Installation
 Portable program (Plans for installer and portable option).
+
 ## Test
 I have tested on Windows 10 64 Bit
+
 ## Contributors
 Ian Pride @ faithnomoread@yahoo.com - [Lateralus138][FluxApex] @ New Pride Services 
+
+## Screenshot
+![VR Screenshot](VR_screen.png?raw=true "Volume Revolver Screenshot")
+
 ## License
 
 	This program is free software: you can redistribute it and/or modify
